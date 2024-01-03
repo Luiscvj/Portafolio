@@ -14,7 +14,7 @@ namespace Portafolio.Services
                     new Proyecto
                     {
                         Titulo= "Zona Franca",
-                        Descripcion ="Un proyecto de zona franca para una red social",
+                        Descripcion ="Un proyecto para Zona Franca Santander para registro de asistencias",
                         Imagen= "../Images/zonaFranca.jpg",
                         Url = "https://www.zonafrancasantander.com"
 
@@ -24,7 +24,7 @@ namespace Portafolio.Services
                         Titulo = "Envia",
                         Descripcion = "Un Backend completo para la empresa de Envia",
                         Imagen ="../Images/ENVIA.png",
-                        Url="https://www.zonafrancasantander.com"
+                        Url="https://github.com/Luiscvj/PushUpBackendEnvia.LuisCarlosVillan"
                     }
 
             };
