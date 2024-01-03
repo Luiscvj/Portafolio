@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj": {}
+    "C:\\Users\\Asus\\source\\repos\\Portafolio\\PortafolioMVC\\Portafolio\\Portafolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj": {
+    "C:\\Users\\Asus\\source\\repos\\Portafolio\\PortafolioMVC\\Portafolio\\Portafolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\Portafolio\\PortafolioMVC\\Portafolio\\Portafolio.csproj",
         "projectName": "Portafolio",
-        "projectPath": "C:\\Users\\Asus\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj",
+        "projectPath": "C:\\Users\\Asus\\source\\repos\\Portafolio\\PortafolioMVC\\Portafolio\\Portafolio.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\source\\repos\\Portafolio\\Portafolio\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\source\\repos\\Portafolio\\PortafolioMVC\\Portafolio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
